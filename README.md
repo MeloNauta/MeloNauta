@@ -23,8 +23,8 @@
 
 <h3 align="left">Fale comigo: </h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-melo-portela/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melo_bahh/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge)](https://www.linkedin.com/in/cauã-melo-portela/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge)](https://www.instagram.com/melo_bahh/)
 
 <h3 align="left">Minhas linguagens: </h3>
 
