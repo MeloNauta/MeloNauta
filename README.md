@@ -1,34 +1,54 @@
-# Olá, eu sou o Cauã Melo, estudante de TI e apaixonado por suporte técnico e desenvolvimento!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=28&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Seja+bem+vindo+ao+meu+perfil!+%E2%8A%B9" alt="Typing SVG">
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeloNauta&layout=compact&theme=dark" alt="Top Langs">
+<img align="center" alt="" src="./src/header-gif.gif">
+
+#
+
+<p align="center"> 
+  
+ㅤㅤSou um estudante do último ano do curso técnico em TI no CETEC UCS, com uma grande paixão pela área de Tecnologia da Informação. Ao longo da minha jornada, adquiri experiências práticas em programação, administração de redes e suporte técnico, sempre em busca de novos desafios e aprendizados. Além disso, também tenho cursos complementares em inglês e manutenção de computadores e redes, que expandem minha formação e me preparam para atuar de forma mais completa no mercado.
+
+ㅤㅤTenho me dedicado a projetos que buscam solucionar problemas reais. Um dos meus projetos foi um site premiado na Mostra Científica do CETEC (Sapo - Serviço de Apoio e Orientação Online), e outro visa facilitar o cálculo da média ponderada, ajudando os estudantes do CETEC UCS a descobrirem quanto precisam tirar no 3º trimestre para alcançar suas metas. Esses projetos me proporcionaram não só conhecimento técnico, mas também a oportunidade de aplicar minha criatividade e resolver problemas de forma prática.
+
+ㅤㅤAtualmente, estou em busca de oportunidades e vagas na área de TI, com foco em desenvolvimento e suporte técnico. Se você compartilha dessa mesma paixão por tecnologia e inovação, adoraria conectar-me para trocar ideias e experiências!
 </p>
 
+#
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Cauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cauã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cauã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cauã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<h3 align="left">Fale comigo: </h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-melo-portela/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melo_bahh/)
+
+<h3 align="left">Minhas linguagens: </h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
 </div>
 
-##
+#
 
-<div align="center"> 
-  <a href="https://instagram.com/melo_bahh" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/MeloNautaLives" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="https://discord.gg/YecVAkYHcT" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:cmportela@ucs.br">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/cauã-melo-portela" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<div style="text-align: center;" align="center">
+  <h3> Status do GitHub: </h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MeloNauta&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFFF00&text_color=FFF&border_radius=3&border_color=FFFF00c&icon_color=FFFF00&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MeloNauta&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFF00&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+
+#
+
+
