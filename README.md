@@ -25,6 +25,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge)](https://www.linkedin.com/in/cauã-melo-portela/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge)](https://www.instagram.com/melo_bahh/)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge)](https://discord.gg/YecVAkYHcT)
 
 <h3 align="left">Minhas linguagens: </h3>
 
@@ -34,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="25" alt="python logo"  />
   <img width="8" />
 </div>
 
@@ -47,6 +50,7 @@
   <a href="https://github.com/mari4souza/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MeloNauta&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFF00&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
   </a>
+  
 </div>
 
 #
