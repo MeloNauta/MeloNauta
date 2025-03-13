@@ -10,7 +10,7 @@
 
 <p align="center"> 
   
-ㅤㅤSou um estudante do último ano do curso técnico em TI no CETEC UCS, com uma grande paixão pela área de Tecnologia da Informação. Ao longo da minha jornada, adquiri experiências práticas em programação, administração de redes e suporte técnico, sempre em busca de novos desafios e aprendizados. Além disso, também tenho cursos complementares em inglês e manutenção de computadores e redes, que expandem minha formação e me preparam para atuar de forma mais completa no mercado.
+ㅤㅤSou o melhor estudante do último ano do curso técnico em TI no CETEC UCS, com uma grande paixão pela área de Tecnologia da Informação. Ao longo da minha jornada, adquiri experiências práticas em programação, administração de redes e suporte técnico, sempre em busca de novos desafios e aprendizados. Além disso, também tenho cursos complementares em inglês e manutenção de computadores e redes, que expandem minha formação e me preparam para atuar de forma mais completa no mercado.
 
 ㅤㅤTenho me dedicado a projetos que buscam solucionar problemas reais. Um dos meus projetos foi um site premiado na Mostra Científica do CETEC (Sapo - Serviço de Apoio e Orientação Online), e outro visa facilitar o cálculo da média ponderada, ajudando os estudantes do CETEC UCS a descobrirem quanto precisam tirar no 3º trimestre para alcançar suas metas. Esses projetos me proporcionaram não só conhecimento técnico, mas também a oportunidade de aplicar minha criatividade e resolver problemas de forma prática.
 
